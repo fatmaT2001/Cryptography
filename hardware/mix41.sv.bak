@@ -1,0 +1,13 @@
+module mix41(out, a, b, c, d, s0, s1);
+
+output logic [3:0]out;
+input logic [3:0]a, b, c, d;
+input logic  s0, s1;
+wire sobar, s1bar;
+wire [3:0] Q1, Q2, Q3, Q4;
+
+not (s0bar, s0), (s1bar, s1);
+and (Q1, a, s0bar, s1bar), (Q2, b, s0, s1bar),(Q3, c, s0bar, s1), (Q4, d, s0, s1);
+or(out, Q1, Q2, Q3, Q4);
+
+endmodule

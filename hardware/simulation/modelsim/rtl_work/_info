@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ahmed/Desktop/linearproject/simulation/modelsim
+vdisp_hex_mux
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1643815207
+!i10b 1
+!s100 J6XBnM7XBClCacBlnclO93
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKYHfJ?dGAcfmI8mQ38b[V2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1643814176
+8C:/Users/ahmed/Desktop/linearproject/disp_hex_mux.sv
+FC:/Users/ahmed/Desktop/linearproject/disp_hex_mux.sv
+!i122 2
+L0 1 79
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1643815207.000000
+!s107 C:/Users/ahmed/Desktop/linearproject/disp_hex_mux.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ahmed/Desktop/linearproject|C:/Users/ahmed/Desktop/linearproject/disp_hex_mux.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work +incdir+C:/Users/ahmed/Desktop/linearproject
+Z9 tCvgOpt 0
+vfirst
+R1
+R2
+!i10b 1
+!s100 FDRGL^J^<_@IS4jZOd[[f1
+R3
+I<SF?FB7k_5;a>iocM?7dS2
+R4
+S1
+R0
+w1643814565
+8C:/Users/ahmed/Desktop/linearproject/first.sv
+FC:/Users/ahmed/Desktop/linearproject/first.sv
+!i122 0
+L0 1 13
+R5
+r1
+!s85 0
+31
+!s108 1643815206.000000
+!s107 C:/Users/ahmed/Desktop/linearproject/first.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ahmed/Desktop/linearproject|C:/Users/ahmed/Desktop/linearproject/first.sv|
+!i113 1
+R7
+R8
+R9
+vmix41
+R1
+R2
+!i10b 1
+!s100 fMZ_>?`YSOljjYokU@c@c3
+R3
+IjUhd>a@=IUjPmm[BRBlSk2
+R4
+S1
+R0
+w1643736224
+8C:/Users/ahmed/Desktop/linearproject/mix41.sv
+FC:/Users/ahmed/Desktop/linearproject/mix41.sv
+!i122 1
+L0 1 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/ahmed/Desktop/linearproject/mix41.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/ahmed/Desktop/linearproject|C:/Users/ahmed/Desktop/linearproject/mix41.sv|
+!i113 1
+R7
+R8
+R9

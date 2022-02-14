@@ -1,0 +1,31 @@
+|mix4to1
+out[0] << WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+out[1] << <GND>
+out[2] << <GND>
+out[3] << <GND>
+a[0] => WideAnd0.IN0
+a[1] => ~NO_FANOUT~
+a[2] => ~NO_FANOUT~
+a[3] => ~NO_FANOUT~
+b[0] => WideAnd1.IN0
+b[1] => ~NO_FANOUT~
+b[2] => ~NO_FANOUT~
+b[3] => ~NO_FANOUT~
+c[0] => WideAnd2.IN0
+c[1] => ~NO_FANOUT~
+c[2] => ~NO_FANOUT~
+c[3] => ~NO_FANOUT~
+d[0] => WideAnd3.IN0
+d[1] => ~NO_FANOUT~
+d[2] => ~NO_FANOUT~
+d[3] => ~NO_FANOUT~
+s0 => WideAnd1.IN1
+s0 => WideAnd3.IN1
+s0 => WideAnd0.IN1
+s0 => WideAnd2.IN1
+s1 => WideAnd2.IN2
+s1 => WideAnd3.IN2
+s1 => WideAnd0.IN2
+s1 => WideAnd1.IN2
+
+
